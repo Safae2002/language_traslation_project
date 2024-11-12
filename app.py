@@ -18,11 +18,11 @@ st.markdown(
     """
     <style>
     .reportview-container {
-        background: #09ece0;  /* Light gray background */
+        background: #09ece0;  
     }
     .header {
         text-align: center;
-        color: #343a40;  /* Dark gray color for header */
+        color: #343a40;  
     }
     
     
